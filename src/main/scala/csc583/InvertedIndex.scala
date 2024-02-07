@@ -6,7 +6,7 @@ class InvertedIndex(val inputFile: String) {
 	}
 
 	def runQ5_2(query: String): Seq[String] = {
-		List() 
+		List("Nothing") 
 	}
 
 	def runQ5_3(query: String): Seq[String] = {
